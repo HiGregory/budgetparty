@@ -1,4 +1,4 @@
-# Budget Party
+# Budget Party 305 Edition
 
 <img src="http://dsh.re/af3f9" width="300"/>
 
@@ -10,25 +10,20 @@
 
 ## What are we working on now?:
 
-We're currently working to modify and extend the orignial budget party app to develop a Digital Mock City Council experience. Read more about our Partnership with Austin Monitor and the Mozilla Gigabit Community Fund grant we were awarded. (https://www.open-austin.org/blog/2017/02/08/budget-party-mozilla-gigabit-grant-announcement) 
-February 12, 2017
+We've currently forked Austin Budget Party and our mapping out a way to add City of Miami budget data to this experience.
 
-We will want to interate on our progres and include more features. Check out the [Issues](https://github.com/open-austin/budgetparty/issues) to see what we're thinking about next and feel free to jump in with your own suggestions or contributions.
+Once we do that we will re-think each design process of the current interface to match our own idea of what this should look like.
 
 ## Contributors
 
 This project has recieved contributions from some wonderful volunteers. 
 
 ### Current Project Leads | Contact for any questions
-- [@mateoclarke](https://github.com/mateoclarke) - Javascript, Web Development, Project Leader
-- [@VictoriaODell](https://github.com/VictoriaODell) - UX Design
-- [@brainnews](https://github.com/brainnews) - Visual Design
+- [@HiGregory](https://github.com/higregory) - Data Cleaner & Project Leader
 
 
 ### Previous Contributors
-- [@graceatkins](https://github.com/graceatkins) - Policy Domain Expert, Writing
-- [@wilsaj](https://github.com/wilsaj) - Javascript, Web Development
-- [@kmclaugh](https://github.com/kmclaugh) - Javascript, Web Development
+- Open to new members
 
 ## Design
 
